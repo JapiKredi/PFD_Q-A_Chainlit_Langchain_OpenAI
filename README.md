@@ -5,10 +5,10 @@ This code sample should get you up to speed with ChainLit in no time flat!
 ### Launching the Chainlit Application Locally
 
 1. `git clone ...` this repository
-   2.Create a virtual environment using python3.9 -m venv pdf
-2. `pip install -r requirements.txt` in whatever virtual environment you prefer.
-3. Create or modify the `.env.example` -> `.env` and enter your OpenAI API key
-4. Navigate to the root of your local repository and run: `chainlit run app.py`
+2. Create a virtual environment using python3.9 -m venv pdf
+3. `pip install -r requirements.txt` in whatever virtual environment you prefer.
+4. Create or modify the `.env.example` -> `.env` and enter your OpenAI API key
+5. Navigate to the root of your local repository and run: `chainlit run app.py`
 
 ### Launching the ChainLit App with Docker
 
